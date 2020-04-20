@@ -2,6 +2,7 @@ import argparse
 
 from . import play
 from . import tables
+from . import boat
 
 
 def parse_args():
@@ -13,6 +14,7 @@ def parse_args():
     subparsers = parser.add_subparsers(title='subcommands', dest='subcommand')
     play.fill_argparser(subparsers.add_parser('play', help=play.DESCRIPTION))
     tables.fill_argparser(subparsers.add_parser('tables', help=tables.DESCRIPTION))
+    boat.fill_argparser(subparsers.add_parser('boat', help=boat.DESCRIPTION))
     return parser.parse_args()
 
 
@@ -22,5 +24,7 @@ def main():
         play.main(args)
     elif args.subcommand == 'tables':
         tables.main(args)
+    elif args.subcommand == 'boat':
+        boat.main(args)
     else:
         raise(f"Unexpected subcommand { args.subcommand }")
