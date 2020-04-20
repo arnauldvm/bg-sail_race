@@ -7,14 +7,14 @@ import sail_race.wind as wind
 class WindTestCase(unittest.TestCase):
 
     def test_init_bearing(self):
-        draws.die.seed(0)
+        draws.seed(0)
         for _ in range(100):
             b = wind.init_bearing()
             self.assertEquals(b % 10, 0)
             self.assertIn(b // 10, range(36))
 
     def test_init(self):
-        draws.die.seed(0)
+        draws.seed(0)
         for _ in range(100):
             w = wind.Wind()
             self.assertEquals(w.bearing() % 10, 0)
@@ -22,7 +22,7 @@ class WindTestCase(unittest.TestCase):
             self.assertEqual(w.speed(), wind.INIT_SPEED)
 
     def test_iter(self):
-        draws.die.seed(0)
+        draws.seed(0)
         w = wind.Wind()
         print(w)
         wi = iter(w)
