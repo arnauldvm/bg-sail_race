@@ -21,13 +21,13 @@ def table_init_speed():
 
 def table_init_bearing():
     print("Initial wind bearing:")
-    print(f"  |", end='')
+    print(f"2D6 |", end='')
     for d2 in range(1, 7):
         print(f"  {d2} ", end='')
     print()
-    print("- + --- --- --- --- --- ---")
+    print("--- + --- --- --- --- --- ---")
     for d1 in range(1, 7):
-        print(f"{d1} |", end='')
+        print(f" {d1}  |", end='')
         for d2 in range(1, 7):
             bearing = _2d6_to_d36([d1, d2])*10
             print(f" {bearing:3}", end='')
