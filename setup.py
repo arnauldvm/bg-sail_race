@@ -10,7 +10,7 @@ if isdir(egg_info_dir):
 
 setup(
     entry_points={
-        'console_scripts': ['sail_race = sail_race.cli:main']
+        'console_scripts': ['sail-race = sail_race.cli.main:main']
     },
     packages=find_packages(),
 )
