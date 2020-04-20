@@ -8,4 +8,9 @@ egg_info_dir = 'sail_race.egg-info'
 if isdir(egg_info_dir):
     rmtree(egg_info_dir)
 
-setup(packages=find_namespace_packages(include=['sail_race.*']))
+setup(
+    entry_points={
+        'console_scripts': ['sail_race = sail_race.cli:main']
+    },
+    packages=find_namespace_packages(include=['sail_race.*']),
+)
