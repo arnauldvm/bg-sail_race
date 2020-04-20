@@ -20,7 +20,7 @@ wind_brg_evolution_table = [
 
 MIN_SPEED = 1
 MAX_SPEED = 3
-GALE_SPEED = 3
+GALE_SPEED = 4
 INIT_SPEED = 2
 
 

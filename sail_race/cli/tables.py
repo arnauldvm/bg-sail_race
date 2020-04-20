@@ -59,7 +59,7 @@ def table_next_wind():
                 symbol = "g"
             print(f" {bearing_delta:+3}/{symbol}", end='')
         print()
-    print(f"  Speed must always stay within [{MIN_SPEED}, {MAX_SPEED}]")
+    print(f"  Average speeds must always stay within [{MIN_SPEED}, {MAX_SPEED}]")
     print(f"  'g' means gale: temporary wind of speed {GALE_SPEED}")
 
 
