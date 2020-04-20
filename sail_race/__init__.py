@@ -1,28 +1,14 @@
 from sys import maxsize as maxint
 from enum import IntEnum
 
-from pytgbb.randomizers import Die
-
+from .draws import die, draw, draw36
 from .boat_bearing import BoatBearing
 from .point_of_sail import PointOfSail
 
-__all__ = ["BoatBearing", "PointOfSail"]
-
-die = Die(6)
-die.seed(0)
-
-
-def draw():
-    # 2 random numbers in [1, 6]
-    # Not really useful, since we could use Die(36) immediately,
-    #   but so we simulate the real game more closely
-    return die.draws(2)
-
-
-def draw36():
-    # 1 random number in [0, 35]
-    d = draw()
-    return (d[0]-1)*6+(d[1]-1)
+__all__ = [
+    "die", "draw", "draw36",
+    "BoatBearing", "PointOfSail"
+]
 
 
 def init_bearing():
