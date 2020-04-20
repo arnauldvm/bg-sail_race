@@ -1,4 +1,5 @@
 from ..draws import _2d6_to_d36
+from ..wind import INIT_SPEED
 
 DESCRIPTION = 'Generate tables'
 
@@ -8,8 +9,14 @@ def fill_argparser(parser):
 
 
 def tables():
+    table_init_speed()
     table_init_bearing()
+    print()
     table_next_wind()
+
+
+def table_init_speed():
+    print(f"Initial wind speed: { INIT_SPEED}")
 
 
 def table_init_bearing():
