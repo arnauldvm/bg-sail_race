@@ -1,11 +1,12 @@
 from sys import maxsize as maxint
-from enum import Enum, IntEnum
+from enum import IntEnum
 
 from pytgbb.randomizers import Die
 
+from .boat_bearing import BoatBearing
 from .point_of_sail import PointOfSail
 
-__all__ = ["PointOfSail"]
+__all__ = ["BoatBearing", "PointOfSail"]
 
 die = Die(6)
 die.seed(0)
@@ -123,16 +124,3 @@ class WindIterator:
 
     def stop(self):
         self._is_finished = True
-
-
-class BoatBearing(Enum):
-    E = (-20, 30)
-    NE = (40, 90)
-    NW = (100, 150)
-    W = (160, 210)
-    SW = (220, 270)
-    SE = (280, 330)
-
-    def __init__(self, min, max):
-        self.min = min
-        self.max = max
