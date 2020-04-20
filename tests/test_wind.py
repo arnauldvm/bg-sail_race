@@ -3,7 +3,7 @@ import unittest
 import sail_race as sr
 
 
-class SailRaceTestCase(unittest.TestCase):
+class WindTestCase(unittest.TestCase):
 
     def test_init_bearing(self):
         sr.die.seed(0)
@@ -11,9 +11,6 @@ class SailRaceTestCase(unittest.TestCase):
             b = sr.init_bearing()
             self.assertEquals(b % 10, 0)
             self.assertIn(b // 10, range(36))
-
-
-class WindTestCase(unittest.TestCase):
 
     def test_init(self):
         sr.die.seed(0)
