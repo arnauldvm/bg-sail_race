@@ -21,4 +21,4 @@ def draw36():
     return (d[0]-1)*6+(d[1]-1)
 
 
-seed(0)
+seed(None)  # Initializes from system time
