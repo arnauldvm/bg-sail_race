@@ -81,7 +81,7 @@ class Wind():
 
     def __str__(self):
         return (
-            f"BRG: { self.bearing() }, SPD: { self.speed() }"
+            f"BRG: {self.bearing():3}, SPD: { self.speed() }"
             f"{ ' GALE (avg:%d)' % self._avg_speed if self._is_gale else ''}"
         )
 
