@@ -18,7 +18,7 @@ def play(seed_value, count):
     wi = iter(w)
     for _ in range(count):
         next(wi)
-        print(f"[{_:5}] { w }")
+        print(f"[{_+1:5}] { w }")
     wi.stop()
 
 

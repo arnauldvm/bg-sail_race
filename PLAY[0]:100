@@ -1,101 +1,101 @@
 [Start] BRG: 210, SPD: 2
-[    0] BRG: 200, SPD: 1
-[    1] BRG: 200, SPD: 2
+[    1] BRG: 200, SPD: 1
 [    2] BRG: 200, SPD: 2
 [    3] BRG: 200, SPD: 2
-[    4] BRG: 190, SPD: 2
-[    5] BRG: 180, SPD: 2
-[    6] BRG: 180, SPD: 1
-[    7] BRG: 200, SPD: 2
-[    8] BRG: 200, SPD: 3
-[    9] BRG: 220, SPD: 2
-[   10] BRG: 220, SPD: 3
-[   11] BRG: 250, SPD: 3 GALE (avg:3)
-[   12] BRG: 280, SPD: 3 GALE (avg:3)
-[   13] BRG: 280, SPD: 3
-[   14] BRG: 260, SPD: 3
+[    4] BRG: 200, SPD: 2
+[    5] BRG: 190, SPD: 2
+[    6] BRG: 180, SPD: 2
+[    7] BRG: 180, SPD: 1
+[    8] BRG: 200, SPD: 2
+[    9] BRG: 200, SPD: 3
+[   10] BRG: 220, SPD: 2
+[   11] BRG: 220, SPD: 3
+[   12] BRG: 250, SPD: 3 GALE (avg:3)
+[   13] BRG: 280, SPD: 3 GALE (avg:3)
+[   14] BRG: 280, SPD: 3
 [   15] BRG: 260, SPD: 3
 [   16] BRG: 260, SPD: 3
-[   17] BRG: 240, SPD: 3
+[   17] BRG: 260, SPD: 3
 [   18] BRG: 240, SPD: 3
-[   19] BRG: 240, SPD: 2
-[   20] BRG: 230, SPD: 3
-[   21] BRG: 210, SPD: 3
-[   22] BRG: 240, SPD: 3 GALE (avg:3)
-[   23] BRG: 250, SPD: 3
-[   24] BRG: 280, SPD: 3 GALE (avg:3)
-[   25] BRG: 300, SPD: 3
+[   19] BRG: 240, SPD: 3
+[   20] BRG: 240, SPD: 2
+[   21] BRG: 230, SPD: 3
+[   22] BRG: 210, SPD: 3
+[   23] BRG: 240, SPD: 3 GALE (avg:3)
+[   24] BRG: 250, SPD: 3
+[   25] BRG: 280, SPD: 3 GALE (avg:3)
 [   26] BRG: 300, SPD: 3
-[   27] BRG: 320, SPD: 3
-[   28] BRG: 330, SPD: 2
-[   29] BRG: 310, SPD: 1
-[   30] BRG: 300, SPD: 1
-[   31] BRG: 290, SPD: 1
-[   32] BRG: 290, SPD: 2
-[   33] BRG: 260, SPD: 3 GALE (avg:2)
-[   34] BRG: 260, SPD: 3
-[   35] BRG: 250, SPD: 2
-[   36] BRG: 250, SPD: 3
-[   37] BRG: 260, SPD: 2
-[   38] BRG: 280, SPD: 3
+[   27] BRG: 300, SPD: 3
+[   28] BRG: 320, SPD: 3
+[   29] BRG: 330, SPD: 2
+[   30] BRG: 310, SPD: 1
+[   31] BRG: 300, SPD: 1
+[   32] BRG: 290, SPD: 1
+[   33] BRG: 290, SPD: 2
+[   34] BRG: 260, SPD: 3 GALE (avg:2)
+[   35] BRG: 260, SPD: 3
+[   36] BRG: 250, SPD: 2
+[   37] BRG: 250, SPD: 3
+[   38] BRG: 260, SPD: 2
 [   39] BRG: 280, SPD: 3
-[   40] BRG: 290, SPD: 3
-[   41] BRG: 300, SPD: 3
+[   40] BRG: 280, SPD: 3
+[   41] BRG: 290, SPD: 3
 [   42] BRG: 300, SPD: 3
-[   43] BRG: 320, SPD: 3
+[   43] BRG: 300, SPD: 3
 [   44] BRG: 320, SPD: 3
-[   45] BRG: 310, SPD: 3
-[   46] BRG: 310, SPD: 2
-[   47] BRG: 300, SPD: 2
-[   48] BRG: 320, SPD: 3
-[   49] BRG: 310, SPD: 3
-[   50] BRG: 300, SPD: 2
-[   51] BRG: 330, SPD: 3 GALE (avg:2)
-[   52] BRG: 320, SPD: 2
-[   53] BRG: 290, SPD: 3 GALE (avg:2)
-[   54] BRG: 310, SPD: 1
-[   55] BRG: 320, SPD: 1
-[   56] BRG: 340, SPD: 1
-[   57] BRG: 340, SPD: 2
-[   58] BRG: 330, SPD: 2
-[   59] BRG: 350, SPD: 1
+[   45] BRG: 320, SPD: 3
+[   46] BRG: 310, SPD: 3
+[   47] BRG: 310, SPD: 2
+[   48] BRG: 300, SPD: 2
+[   49] BRG: 320, SPD: 3
+[   50] BRG: 310, SPD: 3
+[   51] BRG: 300, SPD: 2
+[   52] BRG: 330, SPD: 3 GALE (avg:2)
+[   53] BRG: 320, SPD: 2
+[   54] BRG: 290, SPD: 3 GALE (avg:2)
+[   55] BRG: 310, SPD: 1
+[   56] BRG: 320, SPD: 1
+[   57] BRG: 340, SPD: 1
+[   58] BRG: 340, SPD: 2
+[   59] BRG: 330, SPD: 2
 [   60] BRG: 350, SPD: 1
 [   61] BRG: 350, SPD: 1
-[   62] BRG:   0, SPD: 2
-[   63] BRG:  30, SPD: 3 GALE (avg:2)
-[   64] BRG:  20, SPD: 3
+[   62] BRG: 350, SPD: 1
+[   63] BRG:   0, SPD: 2
+[   64] BRG:  30, SPD: 3 GALE (avg:2)
 [   65] BRG:  20, SPD: 3
-[   66] BRG:  30, SPD: 3
-[   67] BRG:  50, SPD: 3
-[   68] BRG:  50, SPD: 2
-[   69] BRG:  30, SPD: 2
-[   70] BRG:  20, SPD: 3
-[   71] BRG:  50, SPD: 3 GALE (avg:3)
-[   72] BRG:  50, SPD: 3
+[   66] BRG:  20, SPD: 3
+[   67] BRG:  30, SPD: 3
+[   68] BRG:  50, SPD: 3
+[   69] BRG:  50, SPD: 2
+[   70] BRG:  30, SPD: 2
+[   71] BRG:  20, SPD: 3
+[   72] BRG:  50, SPD: 3 GALE (avg:3)
 [   73] BRG:  50, SPD: 3
-[   74] BRG:  40, SPD: 2
-[   75] BRG:  20, SPD: 1
-[   76] BRG:   0, SPD: 2
-[   77] BRG:  20, SPD: 3
-[   78] BRG:  40, SPD: 2
-[   79] BRG:  60, SPD: 2
-[   80] BRG:  30, SPD: 3 GALE (avg:2)
-[   81] BRG:  60, SPD: 3 GALE (avg:2)
-[   82] BRG:  70, SPD: 2
-[   83] BRG:  50, SPD: 2
-[   84] BRG:  40, SPD: 1
-[   85] BRG:  30, SPD: 2
-[   86] BRG:  50, SPD: 3
-[   87] BRG:  30, SPD: 2
-[   88] BRG:  50, SPD: 2
-[   89] BRG:  60, SPD: 3
-[   90] BRG:  80, SPD: 3
-[   91] BRG: 110, SPD: 3 GALE (avg:3)
-[   92] BRG: 130, SPD: 3
-[   93] BRG: 130, SPD: 2
-[   94] BRG: 120, SPD: 1
-[   95] BRG: 100, SPD: 1
-[   96] BRG: 130, SPD: 3 GALE (avg:1)
-[   97] BRG: 130, SPD: 1
-[   98] BRG: 130, SPD: 2
-[   99] BRG: 150, SPD: 3
+[   74] BRG:  50, SPD: 3
+[   75] BRG:  40, SPD: 2
+[   76] BRG:  20, SPD: 1
+[   77] BRG:   0, SPD: 2
+[   78] BRG:  20, SPD: 3
+[   79] BRG:  40, SPD: 2
+[   80] BRG:  60, SPD: 2
+[   81] BRG:  30, SPD: 3 GALE (avg:2)
+[   82] BRG:  60, SPD: 3 GALE (avg:2)
+[   83] BRG:  70, SPD: 2
+[   84] BRG:  50, SPD: 2
+[   85] BRG:  40, SPD: 1
+[   86] BRG:  30, SPD: 2
+[   87] BRG:  50, SPD: 3
+[   88] BRG:  30, SPD: 2
+[   89] BRG:  50, SPD: 2
+[   90] BRG:  60, SPD: 3
+[   91] BRG:  80, SPD: 3
+[   92] BRG: 110, SPD: 3 GALE (avg:3)
+[   93] BRG: 130, SPD: 3
+[   94] BRG: 130, SPD: 2
+[   95] BRG: 120, SPD: 1
+[   96] BRG: 100, SPD: 1
+[   97] BRG: 130, SPD: 3 GALE (avg:1)
+[   98] BRG: 130, SPD: 1
+[   99] BRG: 130, SPD: 2
+[  100] BRG: 150, SPD: 3
