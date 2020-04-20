@@ -15,10 +15,13 @@ def draw():
     return _die.draws(2)
 
 
+def _2d6_to_d36(dice):
+    return (dice[0]-1)*6+(dice[1]-1)
+
+
 def draw36():
     # 1 random number in [0, 35]
-    d = draw()
-    return (d[0]-1)*6+(d[1]-1)
+    return _2d6_to_d36(draw())
 
 
 seed(None)  # Initializes from system time
