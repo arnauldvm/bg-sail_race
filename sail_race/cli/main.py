@@ -20,7 +20,7 @@ def main():
     args = parse_args()
     if args.subcommand == 'play':
         play.main(args)
-    if args.subcommand == 'tables':
+    elif args.subcommand == 'tables':
         tables.main(args)
     else:
         raise(f"Unexpected subcommand { args.subcommand }")
