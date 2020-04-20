@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 from os.path import isdir
-from setuptools import setup, find_namespace_packages
+from setuptools import setup, find_packages
 from shutil import rmtree
 
 egg_info_dir = 'sail_race.egg-info'
@@ -12,5 +12,5 @@ setup(
     entry_points={
         'console_scripts': ['sail_race = sail_race.cli:main']
     },
-    packages=find_namespace_packages(include=['sail_race.*']),
+    packages=find_packages(),
 )
