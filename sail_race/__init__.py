@@ -1,3 +1,4 @@
+from .wind import Wind, WindIterator
 from .boat_bearing import BoatBearing
 from .point_of_sail import PointOfSail
 
