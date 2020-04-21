@@ -4,7 +4,7 @@ from math import sin, cos, radians
 
 from PIL import Image, ImageDraw, ImageFont
 
-from ..point_of_sail import PointOfSail
+from .. import PointOfSail
 
 # TODO: SHould replace this by SVG
 
@@ -15,7 +15,7 @@ RESY = 256
 RADIUS = 110
 BOX_H = 160
 BOX_W = 80
-TEXT_DIST = 80
+TEXT_DIST = RADIUS-30
 TEXT_SZ = 7
 
 
