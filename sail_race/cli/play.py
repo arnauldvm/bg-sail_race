@@ -1,6 +1,7 @@
 from ..draws import seed
 from ..wind import Wind, WindIterator
 
+NAME = 'play'
 DESCRIPTION = 'Prepare game'
 
 

@@ -3,6 +3,7 @@ from ..wind import INIT_SPEED, GALE_SPEED, MIN_SPEED, MAX_SPEED
 from ..wind import wind_brg_evolution_table, wind_speed_evolution_table
 from ..wind import WindSpeedEvolution
 
+NAME = 'tables'
 DESCRIPTION = 'Generate tables'
 
 

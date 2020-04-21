@@ -8,6 +8,7 @@ from ..point_of_sail import PointOfSail
 
 # TODO: SHould replace this by SVG
 
+NAME = 'boat'
 DESCRIPTION = 'Generate boat token (format is PNG)'
 RESX = 256
 RESY = 256

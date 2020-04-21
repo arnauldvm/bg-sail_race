@@ -9,6 +9,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 # TODO: place buoys, reefs, starting/arrival line
 
+NAME = 'map'
 DESCRIPTION = 'Generate map of hexes (format is PNG)'
 
 
