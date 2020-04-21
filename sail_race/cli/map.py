@@ -7,7 +7,7 @@ from numpy.random.mtrand import RandomState
 
 from PIL import Image, ImageDraw, ImageFont
 
-# TODO: place buoys, reefs, starting/arrival line
+# TODO: draw arrival line
 
 NAME = 'map'
 DESCRIPTION = 'Generate map of hexes (format is PNG)'
