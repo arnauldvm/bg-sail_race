@@ -1,8 +1,8 @@
 import argparse
 
-from . import play, tables, boat, map
+from . import play, tables, boat, compass, map
 
-subcommands = {_.NAME: _ for _ in [play, tables, boat, map]}
+subcommands = {_.NAME: _ for _ in [play, tables, boat, compass, map]}
 
 
 def parse_args():
