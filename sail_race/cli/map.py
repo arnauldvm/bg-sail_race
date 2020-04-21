@@ -4,6 +4,8 @@ from math import sin, cos, radians
 
 from PIL import Image, ImageDraw, ImageFont
 
+# TODO: place buoys, reefs, starting/arrival line
+
 DESCRIPTION = 'Generate map of hexes (format is PNG)'
 
 
