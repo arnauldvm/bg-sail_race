@@ -44,6 +44,10 @@ def map(output_stream, radius, hex_size):
             draw.polygon(hex_vtx, outline=0)
             # lots of hexes are overlapping, but htis keeps the code simple
 
+    n_hexes = 3 * radius * radius - 3 * radius + 1
+    # 6 . (n(n+1)/2 - 6n + 1 = 3n^2 - 3n - 1
+    print(f"{n_hexes} hexes")
+
     img.save(output_stream, "PNG")
 
 
