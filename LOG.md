@@ -30,3 +30,27 @@ En mode brainstorming pour un nouveau jeu.
 >> C'est justement ça le soucis, pour ce que je veux faire, les distances sont importantes.
 >>
 >> (Autrement dit, j'ai besoin d'un pavage isotropique 😉)
+
+22 avril, 22:42
+---------------
+
+([Post Facebook, suite](https://www.facebook.com/groups/auteursdejeux/?post_id=3237059009661472&comment_id=3244587412241965))
+
+Un retour après une première série de tests in house.
+
+Le jeu est vraiment fluide, et retranscrit très bien le comportement d'un voilier en régate.  
+Les règles sont très simples, et semblent faciles à expliquer et à appliquer.
+
+Peut-être trop simples en fait.  
+Les choix sont en général évidents, et les décisions qui font la différence peu nombreuses,
+et trop souvent résolues par un coup de chance.
+
+Au final, pas suffisamment de challenge dans l'état actuel.  
+(Dernier test à 2 joueurs : on passe l'arrivée en même temps après 30 tours de jeu.)
+
+Mais on a eu plusieurs idées d'amélioration, donc je ne désespère pas.  
+Par contre, c'est pas encore assez mature pour l'infliger à grande échelle 😃  
+
+Et dès que je trouve un peu de temps, je rédige un résumé des règles.
+
+![Second test play, improvement ideas](./photos/IMG_20200422_224503.jpg "Second test play, improvement ideas")
