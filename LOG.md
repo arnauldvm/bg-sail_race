@@ -50,7 +50,7 @@ En mode brainstorming pour un nouveau jeu.
 
 Debriefing première partie de test à 2 joueurs.
 
-Temps: environ 15 min.
+Temps: environ 15 min. (34 tours)
 
 Sensations: on retrouve bien les trajectoires d'un voilier et l'effet du vent selon l'orientation du bateau
 
