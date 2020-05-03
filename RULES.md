@@ -17,14 +17,16 @@ Sail Race: Règles du jeu
         - [3. Pour ajuster le cap du bateau](#3-pour-ajuster-le-cap-du-bateau)
     - [Fin du jeu](#fin-du-jeu)
 - [Historique](#historique)
+    - [V0.1c (2020-04-22)](#v01c-2020-04-22)
     - [V0.1b (2020-04-19)](#v01b-2020-04-19)
     - [V0.1 (2020-04-19)](#v01-2020-04-19)
 
 <!-- /TOC -->
 
-| Version | 0.1b |
+| Version | 0.1c |
 | -------:|:--- |
-| Date    | 2020-04-20 (rédigé 2020-05-03) |
+| Date    | 2020-04-22 (rédigé 2020-05-03) |
+| Statut  | _en cours_ |
 
 Disclaimer
 ----------
@@ -175,6 +177,12 @@ le jeu est terminé et le(s) joueur(s) ayant terminé la course est(sont) procla
 ## Historique
 
 <!-- markdownlint-disable MD036 --><!-- no-emphasis-as-heading -->
+
+### V0.1c (2020-04-22)
+
+(rédigé 2020-05-03)
+
+_en cours_
 
 ### V0.1b (2020-04-19)
 
