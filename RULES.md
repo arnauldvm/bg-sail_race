@@ -163,7 +163,7 @@ Avant le signal de départ :
 #### 3. Pour ajuster le cap du bateau
 
 - Le joueur peut ré-orienter librement son voilier dans la rose des vents.
-- (Ce nouveau cap sera d'appliication pour le prochain tour.
+- (Ce nouveau cap sera d'application pour le prochain tour.)
 
 ### Fin du jeu
 
