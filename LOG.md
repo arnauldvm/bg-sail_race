@@ -1,5 +1,5 @@
-Carnet d'auteur
-===============
+Sail Race: Carnet d'auteur
+==========================
 
 19 avril, 17:43
 ---------------
