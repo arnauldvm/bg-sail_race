@@ -129,7 +129,7 @@ Avant le signal de départ :
           mais reviendra à sa valeur précédente au prochain tour
 - Écrire les nouvelles valeurs sur le _bulletin météo_.
   En cas de coup de vent, écrire `4` suivi de la valeur actuelle du vent entre parenthèses
-  (c'est la valeur qu'il faudra reprendre en compte au prochain tou).
+  (c'est la valeur qu'il faudra reprendre en compte au prochain tour).
 
 #### 2. Pour déplacer son bateau
 
