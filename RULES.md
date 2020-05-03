@@ -26,7 +26,7 @@ Sail Race: Règles du jeu
 | Version | 0.1c |
 | -------:|:--- |
 | Date    | 2020-04-22 (rédigé 2020-05-03) |
-| Statut  | _en cours_ |
+| Statut  | Publié |
 
 Disclaimer
 ----------
@@ -131,6 +131,15 @@ Avant le signal de départ :
   En cas de coup de vent, écrire `4` suivi de la valeur actuelle du vent entre parenthèses
   (c'est la valeur qu'il faudra reprendre en compte au prochain tour).
 
+Alternativement, on peut utiliser un tirage des conditions de vent générées à l'avance.
+Dans ce cas, il faudra veiller à ne dévoiler aux joueurs qu'une seule ligne à la fois de ce tableau.
+Des tableaux prégénérés sont disponibles dans le [section "matériel de jeu"](./components/)
+(fichiers `PLAY*`).
+Il est également possible de générer de nouveaux tableaux à l'aide de [l'outil fourni](./HOWTO.md#tables-météo-pré-tirées).
+
+> L'utilisation de ces tableaux pré-générés est surtout utile pour garantir
+> la reproductibilité des sessions de test.
+
 #### 2. Pour déplacer son bateau
 
 - Rechercher sur _la rose des vents_, la direction _actuelle_ du vent.
@@ -182,7 +191,9 @@ le jeu est terminé et le(s) joueur(s) ayant terminé la course est(sont) procla
 
 (rédigé 2020-05-03)
 
-_en cours_
+**Ajout**
+
+Utilisation de tables de conditions de vent générées à l'avance.
 
 ### V0.1b (2020-04-19)
 
