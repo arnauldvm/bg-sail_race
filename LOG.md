@@ -1,6 +1,20 @@
 Sail Race: Carnet d'auteur
 ==========================
 
+19 avril
+--------
+
+Le système de calcul de vitesse du bateau est inspiré des diagrammes polaires de vitesse:
+
+![polaire de vitesse](./examples/polar_diagram_class40.jpg "polaire de vitesse")
+
+Pour des raisons de jouabilité, la polaire est simplifiée en étant ramenée à 4 allures :
+
+- vent arrière (vitesse moyenne),
+- grand largue (le plus rapide),
+- bon plein (vitesse moyenne),
+- vent de face (bateau à l'arrêt).
+
 19 avril, 17:43
 ---------------
 

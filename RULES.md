@@ -156,7 +156,7 @@ Avant le signal de départ :
   >    |:-----:|:---------:|
   >    | 4g(2) |    210    |
   >
-  > 2. La lecture sur la rose des vents nous montre que le bateau est maintenant au "largue",
+  > 2. La lecture sur la rose des vents nous montre que le bateau est maintenant au "grand largue",
   >    et le modificateur est `+1`.
   >    Le bateau avance donc de `5` cases (4+1) en direction du `NE` (son cap actuel).
   >
