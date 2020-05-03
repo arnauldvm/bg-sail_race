@@ -54,7 +54,7 @@ class Wind():
 
     def __init__(self, initial_bearing=None):
         super().__init__()
-        self._bearing = init_bearing() if initial_bearing is None else initial_bearing
+        self._bearing = init_bearing() if initial_bearing is None else initial_bearing % 360
         if self._bearing % 10 != 0:
             raise ValueError(f"initial_bearing must be a multiple of 10: {initial_bearing}")
         self._avg_speed = init_speed()
