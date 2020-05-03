@@ -23,7 +23,7 @@ Sail Race: Règles du jeu
 
 | Version | 0.1 |
 | -------:|:--- |
-| Date    | 2020-04-19 |
+| Date    | 2020-04-19 (written 2020-05-03) |
 
 Disclaimer
 ----------
@@ -173,5 +173,7 @@ le jeu est terminé et le(s) joueur(s) ayant terminé la course est(sont) procla
 ## Historique
 
 ### V0.1 (2020-04-19)
+
+(written 2020-05-03)
 
 État des règles lors du premier test
