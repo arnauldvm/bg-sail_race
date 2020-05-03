@@ -45,6 +45,35 @@ En mode brainstorming pour un nouveau jeu.
 >>
 >> (Autrement dit, j'ai besoin d'un pavage isotropique 😉)
 
+22 avril
+--------
+
+Debriefing première partie de test à 2 joueurs.
+
+Temps: environ 15 min.
+
+Sensations: on retrouve bien les trajectoires d'un voilier et l'effet du vent selon l'orientation du bateau
+
+Points négatifs :
+
+- [I1] Pas de réel possibilité de se démarquer, on arrive en même temps à l'arrivée
+- [I2] Les rares fois ou un choix aurait pu faire changer le résultat final,
+  c'aurait été suite à un pur coup de chance
+- [I3] Le jeu devient très ennuyant quand on est bloqué plusieurs tours d'affilée,
+  coincé entre un vent contraire et le bord de carte.
+
+Suggestions d'améliorations :
+
+- Donner plus d'importance aux décisions (cf. [I1], [I2]):
+    - [A11] Perte de vitesse quand on change le cap &rarr; -1
+    - [A12] Placer plus de récif sur la carte
+- [A2] On peut "ralentir" son bateau (~= réglage des voiles) (cf. [I2])  
+  &rarr; déplacement d'une case en moins
+- [A3] Laisser plus de place libre à l'extérieur des bouées (cf. [I3])
+- [A4] Rendre possible la navigation "au près" (cf. [I3])  
+  &rarr; déplacement d'une seule case, en crabe,
+  quand le vent est de face (babord ou tribord, à l'opposé du vent)
+
 22 avril, 22:42
 ---------------
 
