@@ -59,6 +59,8 @@ Sensations:
 
 Points négatifs :
 
+- [I0] Bug dans l'outil de génération météo :
+  il ne peut pas accepter une direction initiale du vent qui ne soit pas multiple de 10
 - [I1] Pas de réelle possibilité de se démarquer, on arrive en même temps à l'arrivée
 - [I2] Les rares fois ou un choix aurait pu faire changer le résultat final,
   c'aurait été suite à un pur coup de chance
