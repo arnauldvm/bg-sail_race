@@ -17,13 +17,14 @@ Sail Race: Règles du jeu
         - [3. Pour ajuster le cap du bateau](#3-pour-ajuster-le-cap-du-bateau)
     - [Fin du jeu](#fin-du-jeu)
 - [Historique](#historique)
+    - [V0.1b (2020-04-19)](#v01b-2020-04-19)
     - [V0.1 (2020-04-19)](#v01-2020-04-19)
 
 <!-- /TOC -->
 
-| Version | 0.1 |
+| Version | 0.1b |
 | -------:|:--- |
-| Date    | 2020-04-19 (written 2020-05-03) |
+| Date    | 2020-04-20 (rédigé 2020-05-03) |
 
 Disclaimer
 ----------
@@ -79,7 +80,8 @@ Avant le signal de départ :
 #### 1. Pour déterminer la direction et la force du vent
 
 - La force initiale est: `2`.
-- On détermine la direction aléatoirement:
+- Soit on fixe la direction initiale du vent d'un commun accord.
+- Soit on la détermine aléatoirement:
     - il convient au préalable de décider, pour toute la durée de la partie,
       quelle couleur de dé désigne les colonnes, et quelle couleur désigne les lignes ;
     - on jete les 2 dés et on lit la direction initiale dans la [première table](./components/TABLES).  
@@ -172,8 +174,18 @@ le jeu est terminé et le(s) joueur(s) ayant terminé la course est(sont) procla
 
 ## Historique
 
+<!-- markdownlint-disable MD036 --><!-- no-emphasis-as-heading -->
+
+### V0.1b (2020-04-19)
+
+(rédigé 2020-05-03)
+
+**Changement**
+
+La direction initiale du vent peut aussi être fixée de commun accord.
+
 ### V0.1 (2020-04-19)
 
-(written 2020-05-03)
+(rédigé 2020-05-03)
 
 État des règles lors du premier test
