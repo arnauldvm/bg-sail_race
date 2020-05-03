@@ -121,3 +121,5 @@ Nouvelles idées d'amélioration dans la foulée du précédent débriefing :
 - [A13] nouvelle manœuvre : sortir le spi  
    &rArr; +1 par "grand largue" (ou x2 ?)  
    &rArr; mais nouvelle manœuvre obligatoire pour le rentrer si le vent est au "bon plein" ou "de face"
+
+[I0] est corrigé.

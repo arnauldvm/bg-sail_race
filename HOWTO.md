@@ -140,7 +140,7 @@ Par exemple:
   génère le contenu du fichier [PLAY\[0\]:100](./components/PLAY[0]:100) (cap initial aléatoire).
 
 - ```bash
-  sail-race play -s 1 -n 50 -i 55
+  sail-race play -s 1 -n 50 -i 50
   ```
 
-  génère le contenu du fichier [PLAY:55\[1\]:50](./components/PLAY:55[1]:50) (cap initial prédéfini).
+  génère le contenu du fichier [PLAY:50\[1\]:50](./components/PLAY:50[1]:50) (cap initial prédéfini).

@@ -11,4 +11,5 @@ Sail Race: Matériel de jeu
     - [TABLES](./components/TABLES)
 - Exemples de tables météo pré-tirées :
     - [PLAY\[0\]:100](./components/PLAY[0]:100)
-    - [PLAY:55\[1\]:50](./components/PLAY:55[1]:50)
+    - [PLAY:55\[1\]:50](./components/PLAY:55[1]:50) (ce fichier n'est plus valide depuis la correction de [I0])
+    - [PLAY:50\[1\]:50](./components/PLAY:50[1]:50)

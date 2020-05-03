@@ -9,7 +9,8 @@ def fill_argparser(parser):
     parser.description = DESCRIPTION
     parser.add_argument('-s', '--seed', type=int, help="ignore for random seed (systime based)")
     parser.add_argument('-n', '--count', type=int, required=True)
-    parser.add_argument('-i', '--initial-bearing', type=int, help="ignore for random initial bearing")
+    parser.add_argument('-i', '--initial-bearing', type=int,
+                        help=("ignore for random initial bearing, else must be a multiple of 10"))
 
 
 def play(seed_value, count, initial_bearing):
