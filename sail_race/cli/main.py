@@ -13,7 +13,9 @@ def parse_args():
     )
     subparsers = parser.add_subparsers(title='subcommands', dest='subcommand')
     for name, subcommand in subcommands.items():
-        subcommand.fill_argparser(subparsers.add_parser(name, help=subcommand.DESCRIPTION))
+        subparser = subparsers.add_parser(name, help=subcommand.DESCRIPTION)
+        subparser.formatter_class = argparse.ArgumentDefaultsHelpFormatter
+        subcommand.fill_argparser(subparser)
     return parser.parse_args()
 
 
