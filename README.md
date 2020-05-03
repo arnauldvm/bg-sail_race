@@ -28,3 +28,8 @@ Carnet d'auteur
 ---------------
 
 &rarr; [LOG](./LOG.md)
+
+Outils
+------
+
+&rarr; [HOWTO](./HOWTO.md)
