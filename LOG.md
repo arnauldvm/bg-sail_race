@@ -52,7 +52,10 @@ Debriefing première partie de test à 2 joueurs.
 
 Temps: environ 15 min. (34 tours)
 
-Sensations: on retrouve bien les trajectoires d'un voilier et l'effet du vent selon l'orientation du bateau
+Sensations:
+
+- Les règles sont simples à comprendre et à appliquer.
+- On retrouve bien les trajectoires d'un voilier et l'effet du vent selon l'orientation du bateau.
 
 Points négatifs :
 
