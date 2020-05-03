@@ -8,7 +8,7 @@ from .. import BoatBearing
 from .boat import RESX as BOAT_RESX, RESY as BOAT_RESY, RADIUS
 
 NAME = 'compass'
-DESCRIPTION = 'Generate compas rose (format is PNG)'
+DESCRIPTION = 'Generate compass rose (format is PNG)'
 RESX = BOAT_RESX+96
 RESY = BOAT_RESY+96
 TEXT_DIST = RADIUS+25

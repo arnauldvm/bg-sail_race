@@ -19,7 +19,7 @@ def fill_argparser(parser):
         '-o', '--output', type=argparse.FileType('wb'), default=stdout.buffer,
         help="ignore for STDOUT"
     )
-    parser.add_argument('-r', '--radius', type=int, default=12, help="radius in # of hexes")
+    parser.add_argument('-r', '--radius', type=int, default=12, help="radius of map in number of hexes")
     parser.add_argument('-S', '--hex-size', type=int, default=24, help="radius of one hex in pixels")
     parser.add_argument('-s', '--seed', type=int, help="ignore for random seed (systime based)")
 
