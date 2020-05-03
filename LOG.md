@@ -97,3 +97,22 @@ Par contre, c'est pas encore assez mature pour l'infliger à grande échelle �
 Et dès que je trouve un peu de temps, je rédige un résumé des règles.
 
 ![Second test play, improvement ideas](./photos/IMG_20200422_224503.jpg "Second test play, improvement ideas")
+
+3 mai
+-----
+
+Les [règles](./RULES.md) ont été rédigées dans une forme préliminaire (de travail),
+et le carnet d'auteur démarré (ce présent document).
+
+Nouvelles idées d'amélioration dans la foulée du précédent débriefing :
+
+- [A11-b] comme [A11], mais arrêt complet au prochain tour
+- [A11-c] similaire à [A11-b], mais pour faciliter le déroulement :
+  à chaque tour on doit choisir entre faire une manoeuvre
+  _ou_ faire avancer le bateau (et [A2] n'est plus vraiment nécessaire)
+- [A11-d] plus réaliste : comme [A11-c], mais un changement de cap de 60° est "gratuit"
+- [A11-e] Et si on choissait le cap _après_ la détermination du vent et _avant_ le déplacement ?
+  (cf. [I2], [I3]) &rarr; Moins de chance, plus de stratégie ?? (à confirmer)
+- [A13] nouvelle manœuvre : sortir le spi  
+   &rArr; +1 par "grand largue" (ou x2 ?)  
+   &rArr; mais nouvelle manœuvre obligatoire pour le rentrer si le vent est au "bon plein" ou "de face"
