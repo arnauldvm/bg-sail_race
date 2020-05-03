@@ -13,16 +13,16 @@ Matériel de jeu
 ---------------
 
 - Exemple de grille :
-    - [MAP\[0\]](./MAP[0].png)
+    - [MAP\[0\]](./components/MAP[0].png)
 - Plateau de la rose des vents :
-    - [COMPASS](./COMPASS.png)
+    - [COMPASS](./components/COMPASS.png)
 - Jeton bateau (polaire de vitesse) :
-    - [BOAT](./BOAT.png)
+    - [BOAT](./components/BOAT.png)
 - Tables aléatoires :
-    - [TABLES](./TABLES)
+    - [TABLES](./components/TABLES)
 - Exemples de tables météo pré-tirées :
-    - [PLAY\[0\]:100](./PLAY[0]:100)
-    - [PLAY:55\[1\]:50](./PLAY:55[1]:50)
+    - [PLAY\[0\]:100](./components/PLAY[0]:100)
+    - [PLAY:55\[1\]:50](./components/PLAY:55[1]:50)
 
 Carnet d'auteur
 ---------------

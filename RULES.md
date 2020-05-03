@@ -36,13 +36,13 @@ Leur rôle est essentiellement de cristalliser ma réflexion.
   
 - pour chaque joueur:
     - _une grille hexagonale_
-      ([exemple](./MAP[0].png)), figurant :
+      ([exemple](./components/MAP[0].png)), figurant :
         - une position de départ et d'arrivée, représentée par le symbole "**#**"
         - des bouées (en général 3), représentées par le symbole "**O**"
         - des récifs épars, représentés par le symbole "**\***"
     - un ensemble permettant de calculer facilement la vitesse du bateau en fonction de la direction du vent:
-        - _[la rose des vents](./COMPASS.png )_: un mini plateau avec une grande case hexagonale
-        - _[le bateau](./BOAT.png)_: un grand jeton hexagonal représentant la "polaire de vitesse" du voilier
+        - _[la rose des vents](./components/COMPASS.png )_: un mini plateau avec une grande case hexagonale
+        - _[le bateau](./components/BOAT.png)_: un grand jeton hexagonal représentant la "polaire de vitesse" du voilier
 
 - commun à tous les joueurs:
     - _2 dés_ classiques, de couleurs **différentes**, à 6 faces numérotées de 1 à 6
@@ -50,7 +50,7 @@ Leur rôle est essentiellement de cristalliser ma réflexion.
       une feuille (ou un tableau effaçable) sur laquelle on écrira la direction et la force du vent,
       valables pour le tour en cours  
       {TODO: prévoir un tableau avec des jetons pour ne pas devoir écrire?}
-    - 2 [tables de résolution](./TABLES):
+    - 2 [tables de résolution](./components/TABLES):
         - une table de tirage aléatoire de la direction initiale du vent
         - une table de tirage aléatoire de l'évolution du vent (direction et force)
 
@@ -82,7 +82,7 @@ Avant le signal de départ :
 - On détermine la direction aléatoirement:
     - il convient au préalable de décider, pour toute la durée de la partie,
       quelle couleur de dé désigne les colonnes, et quelle couleur désigne les lignes ;
-    - on jete les 2 dés et on lit la direction initiale dans la [première table](./TABLES).  
+    - on jete les 2 dés et on lit la direction initiale dans la [première table](./components/TABLES).  
       > La valeur obtenue représente l'angle _d'où vient_ le vent.
 - On affiche ces valeurs sur le _bulletin météo_.
 
@@ -115,7 +115,7 @@ Avant le signal de départ :
 
 #### 1. Pour modifer les conditions de vent
 
-- On jete les 2 dés et on cherche la case correspondante dans la [deuxième table](./TABLES).
+- On jete les 2 dés et on cherche la case correspondante dans la [deuxième table](./components/TABLES).
   On y lit 2 valeurs :
     - la _première_ valeur est la correction à apporter à la _direction_ du vent ;
     - la _deuxième_ valeur est la correction à apporter à la _force_ du vent :

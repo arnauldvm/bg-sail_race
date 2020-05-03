@@ -67,7 +67,7 @@ Par exemple:
   sail-race map -s 0
   ```
 
-  génère le contenu du fichier [MAP\[0\].png](./MAP[0].png).
+  génère le contenu du fichier [MAP\[0\].png](./components/MAP[0].png).
 
 ### Plateau de la rose des vents
 
@@ -83,7 +83,7 @@ optional arguments:
                         ignore for STDOUT (default: <_io.BufferedWriter name='<stdout>'>)
 ```
 
-Génère l'image contenue dans le fichier [COMPASS.png](./COMPASS.png).
+Génère l'image contenue dans le fichier [COMPASS.png](./components/COMPASS.png).
 
 ### Jeton bateau
 
@@ -99,7 +99,7 @@ optional arguments:
                         ignore for STDOUT (default: <_io.BufferedWriter name='<stdout>'>)
 ```
 
-Génère l'image contenue dans le fichier [BOAT.png](./BOAT.png).
+Génère l'image contenue dans le fichier [BOAT.png](./components/BOAT.png).
 
 ### Tables de génération aléatoire
 
@@ -113,7 +113,7 @@ optional arguments:
   -h, --help  show this help message and exit
 ```
 
-Génère le contenu du fichier [TABLES](./TABLES).
+Génère le contenu du fichier [TABLES](./components/TABLES).
 
 ### Tables météo pré-tirées
 
@@ -137,10 +137,10 @@ Par exemple:
   sail-race play -s 0 -n 100
   ```
 
-  génère le contenu du fichier [PLAY\[0\]:100](./PLAY[0]:100) (cap initial aléatoire).
+  génère le contenu du fichier [PLAY\[0\]:100](./components/PLAY[0]:100) (cap initial aléatoire).
 
 - ```bash
   sail-race play -s 1 -n 50 -i 55
   ```
 
-  génère le contenu du fichier [PLAY:55\[1\]:50](./PLAY:55[1]:50) (cap initial prédéfini).
+  génère le contenu du fichier [PLAY:55\[1\]:50](./components/PLAY:55[1]:50) (cap initial prédéfini).
