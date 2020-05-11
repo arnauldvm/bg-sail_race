@@ -123,3 +123,18 @@ Nouvelles idées d'amélioration dans la foulée du précédent débriefing :
    &rArr; mais nouvelle manœuvre obligatoire pour le rentrer si le vent est au "bon plein" ou "de face"
 
 [I0] est corrigé.
+
+11 mai
+------
+
+Nouvelle idée pour rendre moins pénible l'utilisation de dés :
+
+- [A14] Utiliser un paquet de cartes.
+  Pour éviter que ce soit trop prévisible, il faudrait les utiliser à la façon Automa :
+  la modification des conditions météo est décrite par 2 demi-carte
+  (on tire 2 cartes à chaque tour).
+  (Ou en combinant le verso d'une carte avec le recto de la prochaine carte,
+  si on veut limiter le nombre de cartes à produire.)
+  Un avantage supplémentaire, c'est qu'on garde une trace de ce qui s'est passé
+  (pour autant qu'il y ait assez de cartes pour pouvoir faire une course
+  entière sans devooir re-mélanger la défausse).
