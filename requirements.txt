@@ -1,4 +1,4 @@
-Pillow==7.1.1
+Pillow==8.3.2
 #pytgbb==0.0.1a1.dev0  # currently, this must be installed from the git repo:
 git+https://github.com/arnauldvm/pytgbb.git@79bacc598084c9da4f2fefd35a40d36de3e72c3c
 scipy==1.4.1
